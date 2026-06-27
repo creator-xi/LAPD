@@ -160,12 +160,9 @@ LAPD/
 │   ├── scripts/               # Batch experiment scripts
 │   └── utils/                 # Utilities for saving, seeding, and processing
 ├── formal_exp/                # Saved experiment outputs
-├── imgs/                      # Visualization assets
 ├── LAPD.pdf                   # Paper draft
-├── roc_curve.pdf
-├── text_length_ablation.pdf
-├── time.csv
-└── README.md
+├── README.md
+└── README_zh.md
 ```
 
 Please download detector models into `./cache`. For local model aliases in `method/model.py`, the expected directory names are:
