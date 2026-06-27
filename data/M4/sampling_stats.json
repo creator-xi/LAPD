@@ -1,0 +1,20 @@
+{
+  "input_stats": {
+    "human_samples_total": 32000,
+    "ai_samples_total": 32000,
+    "input_dir": "/data1/wujunxi/kailin/m4_test/exp"
+  },
+  "sampling_stats": {
+    "human_samples_sampled": 1000,
+    "ai_samples_sampled": 1000,
+    "requested_sample_size": 1000,
+    "random_seed": 0
+  },
+  "output_stats": {
+    "human_file": "/data1/wujunxi/kailin/m4_test/exp/m4_human.json",
+    "ai_file": "/data1/wujunxi/kailin/m4_test/exp/m4_machine.json",
+    "human_file_size_bytes": 3570428,
+    "ai_file_size_bytes": 1890346,
+    "output_dir": "/data1/wujunxi/kailin/m4_test/exp"
+  }
+}
