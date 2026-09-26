@@ -10,6 +10,7 @@ We provide LAPD and RAI, together with a set of zero-shot baselines (fast-detect
 
 - 4/18/2026: The LAPD preprint is available on arXiv.
 - 6/27/2026: This repository provides the LAPD implementation, baseline runners, benchmark data, robustness evaluation scripts, and ablation utilities.
+- 9/25/2026: **LAPD has been accepted to NeurIPS 2026! Congratulations!**
 
 ## Brief Introduction
 
